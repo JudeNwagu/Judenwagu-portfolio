@@ -1,5 +1,5 @@
 ## My Portfolio
-![Alt Text](https://github.com/judoski366/Judenwagu-portfolio/blob/main/Github%20profile%20pics.jfif)
+![Alt Text](https://github.com/JudeNwagu/Judenwagu-portfolio/blob/main/profile%20pics.png)
 
 Hi, My name is **Nwagu Jude**.
 
